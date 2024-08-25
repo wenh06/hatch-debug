@@ -1,0 +1,3 @@
+# pandas  # not used
+numpy
+deprecate-kwargs
